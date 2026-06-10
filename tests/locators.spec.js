@@ -42,3 +42,6 @@ test.only("Get Min. price of those products", async ({ page }) => {
 
 //2. get min price from those 50 products
 //3. get brand name of the min price product
+//4. 
+//5. 
+//6. 
