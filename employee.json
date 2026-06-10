@@ -1,0 +1,9 @@
+{
+    "emp_name": "John Doe",
+    "emp_id": "12345",
+    "skills": ["javascript", "API testing", "automation testing", "manual testing"],
+    "phone": {
+        "Mobile1": "123-456-7890",
+        "Mobile2": "098-765-4321"
+    }
+}
